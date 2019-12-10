@@ -1,7 +1,7 @@
 
   /* gradient for the background */
 body {
-  height: 640px;
+  height: 1000px;
   background: linear-gradient(180deg, #A64252 0%, #731A28 51%, #4E020E 75%);
 }
 /* the top image and title */
@@ -11,7 +11,7 @@ body {
 .horizontal-center {
   font-family:'Solway', serif;
   margin: 0;
-  Position: fixed;
+  Position: absolute;
   top: 10%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
