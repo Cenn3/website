@@ -47,11 +47,21 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #fff;
   color: black;
 }
 
 .topnav a.active {
   background-color: #000000;
   color: white;
+}
+
+.content {
+  font-size: 12px;
+  font-family:'Solway', serif;
+  line-height: 2;
+  color: #fff;
+}
+.content p:hover {
+  text-decoration: underline;
 }
