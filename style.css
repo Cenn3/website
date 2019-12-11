@@ -60,6 +60,9 @@ body {
   font-size: 12px;
   font-family:'Solway', serif;
   line-height: 2;
+  vertical-align: left;
+  margin-left: 50px;
+  border: 2px #fff;
   color: #fff;
 }
 .content p:hover {
