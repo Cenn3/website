@@ -81,3 +81,8 @@ body {
 .content ul {
    overflow: hidden;
  }
+
+.container1 {
+  max-width: 1000px;
+  margin: 0 auto;
+}
