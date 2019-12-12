@@ -5,9 +5,6 @@ body {
   background: linear-gradient(180deg, #A64252 0%, #731A28 51%, #4E020E 75%);
 }
 /* the top image and title */
-.banner {
-height: 350px;
-}
 .center .title {
   vertical-align: middle;
   }
