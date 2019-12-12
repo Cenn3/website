@@ -7,7 +7,6 @@ body {
 /* the top image and title */
 .banner {
 height: 350px;
-background-image: url(https://github.com/Cenn3/website/blob/master/chef-29205_1280.png?raw=true)
 }
 .center .title {
   vertical-align: middle;
