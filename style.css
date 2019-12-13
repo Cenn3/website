@@ -87,10 +87,8 @@ body {
   margin: 0 auto;
 }
 /* For submit box on Contact Page */
-body {font-family:'Solway', serif;}
-* {box-sizing: border-box;}
-
 .box{
+  font-family:'Solway', serif;
   width: 100%;
   padding: 12px;
   border: 1px solid #fff;
